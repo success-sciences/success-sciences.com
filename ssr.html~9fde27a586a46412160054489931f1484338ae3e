@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Successful Sales Relationships</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Successful Sales Relationships</h1></br>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Content -->
+							<section id="content" class="main">
+								<p>In this customized sales skills building program, sales professionals will learn proven, practical skills for winning new customers, and expanding the opportunities with existing customers. The Successful Sales Relationships program is always customized to meet the specific needs of your organization as well as reinforcing your brand promise. The result is higher conversion rates with more satisfied customers leading to a stronger ROI. Note: This program is built from our core modules and those that we may create specifically for you with your collaboration in the process. 80% of the development process is focused on skill building.</p>
+								<p><strong>Key Competencies:</strong></p>
+								<ul>
+								<li>Understanding your customer base and the buying/selling process.</li>
+								<li>Understanding your solution, brand promise and how to position them.</li>
+								<li>USing questions to uncover wants and needs.</li>
+								<li>Speaking the language of benefits.</li>
+								<li>When and how to communicate features/benefits/advantages/capabilities.</li>
+								<li>Understanding and using your competitive advantage.</li>
+								<li>Asking for the business appropriately.</li>
+								<li>Working through resistance.</li>
+								</ul>
+								
+								<p>Success Principle #3 The Conversation IS the relationship. 20% of this development process is focused on mindset and embracing the optimal beliefs, values and attributes that support the use of the skills.</p>
+							</section>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<h2>About Us</h2>
+							<p>Success Sciences is a point of customer contact training and consulting firm that specializes in dramatically improving performance and customer relationships. Founded in 1986 in Tampa, Florida, we currently have offices in Atlanta, San Diego, Seattle, and headquarters in Tampa.</p>
+						</section>
+						<section>
+							<h2>Contact Us</h2>
+							<dl class="alt">
+								<dt>Address</dt>
+								<dd>17838 N US Highway 41 &bull; Tampa, FL 33549 &bull; USA</dd>
+								<dt>Phone</dt>
+								<dd>(813) 989-9900</dd>
+								<dt>Email</dt>
+								<dd><a href="mailto:info@success-sciences.com">info@success-sciences.com</a></dd>
+							</dl>
+							<ul class="icons">
+								<li><a href="https://twitter.com/SuccessSciences" class="icon fa-twitter alt" target="_blank"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/successsciences/" class="icon fa-facebook alt" target="_blank"><span class="label">Facebook</span></a></li>
+								<li><a href="https://www.instagram.com/success_sciences/" class="icon fa-instagram alt" target="_blank"><span class="label">Instagram</span></a></li>
+								<li><a href="https://www.youtube.com/user/SuccessSciences" class="icon fa-youtube alt" target="_blank"><span class="label">YouTube</span></a></li>
+								<li><a href="https://www.linkedin.com/company/success-sciences" class="icon fa-linkedin alt" target="_blank"><span class="label">LinkedIn</span></a></li>
+							</ul>
+						</section>
+						<p class="copyright">&copy; 2017 Success Sciences. All Rights Reserved.</p>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
