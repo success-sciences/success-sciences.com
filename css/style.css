@@ -8,6 +8,10 @@
 
 }
 
+td {
+    text-align: center;
+}
+
 @font-face {
     font-family: 'pantonregular';
     src: url('../fonts/panton_regular-webfont.woff2') format('woff2'),
