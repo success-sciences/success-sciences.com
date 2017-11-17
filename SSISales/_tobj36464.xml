@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratest>
+<survey>0</survey>
+<grade>1</grade>
+<showresults>0</showresults>
+<scoreonly>0</scoreonly>
+<get>0</get>
+<incvar>0</incvar>
+<promptsuccess>1</promptsuccess>
+<persist>0</persist>
+<name>Millionaire</name>
+<subject>Test Results</subject>
+<testtime>0</testtime>
+<numrandom>0</numrandom>
+<passinggrade>100</passinggrade>
+<cancelfail>a001_millionaire_done.html</cancelfail>
+<passdone>a001_millionaire_done.html</passdone>
+<prevpage>a001_types_of_questions_start_with_an_exploring_question.html</prevpage>
+<gdocs>0</gdocs>
+<page>
+<index>0</index>
+<name>a001_millionaire_intro.html</name>
+</page>
+<page>
+<index>1</index>
+<name>a001_millionaire_millionairegame.html</name>
+<question>
+<id>38134</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 1</name>
+<var>VarQuestion_0001</var>
+<text>Which of the following best describes an exploring question?</text>
+<correctans>It allows the customer to share information in his/her own style.</correctans>
+<choices>It is designed to get the customer back on track.|It allows the customer to share information in his/her own style.|It requires the customer to make a specific choice.|It should only be used at the end of the conversation, to close the sale.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+<question>
+<id>38123</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 2</name>
+<var>VarQuestion_0002</var>
+<text>Questions that help you verify information you’ve heard and check your understanding are called ________________________.</text>
+<correctans>confirming questions</correctans>
+<choices>exploring questions|decision questions|confirming questions|redirecting questions</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+<question>
+<id>38112</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 3</name>
+<var>VarQuestion_0003</var>
+<text>What is an important function of an open-ended question?</text>
+<correctans>To allow the customer to share a wide range of ideas and information.</correctans>
+<choices>To allow the customer to share a wide range of ideas and information.|To limit the response options and guide the direction of the conversation. |To allow you to keep the conversation going in a specific direction.|To help you verify that you have heard and understood what was said.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+<question>
+<id>38101</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 4</name>
+<var>VarQuestion_0004</var>
+<text>Which is a good example of a clarifying question?</text>
+<correctans>When will you need this order?</correctans>
+<choices>Do you plan to expand your business in the next 6 months?|Can you tell me a little more about your new project?|It sounds like this bid is a bit of a stretch for your company. Is that right?|When will you need this order?</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+<question>
+<id>38090</id>
+<type>2</type>
+<weight>1</weight>
+<name>Question 5</name>
+<var>VarQuestion_0005</var>
+<text>When is a redirecting question especially helpful?</text>
+<correctans>When you have a talkative customer who wanders off track.</correctans>
+<choices>When you need to interrupt and ask a question on a new topic.|When you need the customer to make a decision and select one of a limited number of options.|When you have a talkative customer who wanders off track.|When there are few constraints on the type of response you’re looking for.</choices>
+<allowmult>0</allowmult>
+<persist>0</persist>
+<gradeindividual>0</gradeindividual>
+<surveyquestion>0</surveyquestion>
+<anyanswer>0</anyanswer>
+<casesensitive>0</casesensitive>
+<separator>|</separator>
+<relationship>0</relationship>
+</question>
+</page>
+<page>
+<index>2</index>
+<name>a001_millionaire_done.html</name>
+</page>
+</lectoratest>
