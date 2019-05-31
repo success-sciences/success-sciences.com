@@ -1,5 +1,0 @@
-[autorun]
-open=explorer.exe bcl.htm
-shell=runit
-shell\runit\command=explorer.exe bcl.htm
-shell\runit=bcl
