@@ -28,6 +28,7 @@ td {
 	src: url(../fonts/panton_bold-webfont.woff2) format('woff2'), url(../fonts/panton_bold-webfont.woff) format('woff');
 	font-weight: 400;
 	font-style: normal
+	font-display: swap;
 }
 
 @font-face {
@@ -35,6 +36,7 @@ td {
 	src: url(../fonts/panton_regular-webfont.woff2) format('woff2'), url(../fonts/panton_regular-webfont.woff) format('woff');
 	font-weight: 400;
 	font-style: normal
+	font-display: swap;
 }
 
 * {
