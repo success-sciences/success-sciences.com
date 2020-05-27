@@ -246,7 +246,7 @@ body .affix-top {
 }
 
 #section03 .imgBg {
-	background: url(../img/areaBg01.jpg) center center no-repeat;
+	background: url(../img/areaBg01.webp) center center no-repeat;
 	padding: 0;
 	background-size: 100%;
 	height: 500px;
@@ -270,17 +270,17 @@ body .affix-top {
 }
 
 #section03 .imgBg01 {
-	background: url(../img/areaBg02.jpg) center center no-repeat;
+	background: url(../img/areaBg02.webp) center center no-repeat;
 	background-size: 100%
 }
 
 #section03 .imgBg02 {
-	background: url(../img/areaBg03.jpg) center center no-repeat;
+	background: url(../img/areaBg03.webp) center center no-repeat;
 	background-size: 100%
 }
 
 #section03 .imgBg03 {
-	background: url(../img/areaBg04.jpg) center center no-repeat;
+	background: url(../img/areaBg04.webp) center center no-repeat;
 	background-size: 100%
 }
 
