@@ -1,7 +1,5 @@
 User-Agent: *
 Disallow: 
-Disallow: /pdf/Why%20SSI.pdf
-Disallow: /pdf/ccgocc.pdf
 Allow: /
 
 Sitemap: http://success-sciences.com/sitemap.xml
