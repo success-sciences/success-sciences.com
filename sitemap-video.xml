@@ -6,7 +6,7 @@
        <video:thumbnail_loc>https://success-sciences.com/video/videothumbnailccsales.jpg</video:thumbnail_loc>
        <video:title>Communication Coach - Simulation, eLearning Platform</video:title>
        <video:description>Communication Coach allows for anytime, anywhere practice and instruction with built in accountability. The content is always customized for you and your performance priorities using small “bite sized” chunks (micro-learning). The practice simulations, drills and coaching lessons are crafted to address the most common as well as most challenging issues and opportunities your target audience faces.</video:description>
-       <video:content_loc>https://success-sciences.com/video/CCSales.mp4</video:content_loc>
+       <video:player_loc>https://success-sciences.com/video/CCSales.mp4</video:player_loc>
        <video:duration>233</video:duration>
        <video:publication_date>2007-11-05T19:20:30+08:00</video:publication_date>
        <video:family_friendly>yes</video:family_friendly>
