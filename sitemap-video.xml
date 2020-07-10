@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
    <url>
-     <loc>https://success-sciences.com/video/CCSales.mp4</loc>
+     <loc>https://success-sciences.com/comcoachvideo</loc>
      <video:video>
        <video:thumbnail_loc>https://success-sciences.com/video/videothumbnailccsales.jpg</video:thumbnail_loc>
        <video:title>Communication Coach - Simulation, eLearning Platform</video:title>
