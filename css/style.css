@@ -23,6 +23,10 @@ td {
 	text-decoration: none
 }
 
+whitefont {
+	color: #fff;
+}
+
 @font-face {
 	font-family: pantonbold;
 	src: url(../fonts/panton_bold-webfont.woff2) format('woff2'), url(../fonts/panton_bold-webfont.woff) format('woff');
@@ -516,7 +520,7 @@ body .affix-top {
 
 .contactInfoWrap h1 {
 	font-size: 48px;
-	padding-bottom: 20px
+	padding-bottom: 15px
 }
 
 .contactInfo,
@@ -1218,7 +1222,7 @@ footer {
 		width: 100%
 	}
 	.contactInfoWrap h1 {
-		font-size: 24px
+		font-size: 28px
 	}
 	.contactInfo span {
 		width: 100%
